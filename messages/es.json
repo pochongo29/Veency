@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "catalog": "Catálogo",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "cart": "Carrito",
+    "favorites": "Favoritos",
+    "newIn": "Nuevo en",
+    "forHer": "Para ellas",
+    "forHim": "Para ellos",
+    "gifts": "Regalos",
+    "collections": "Colecciones"
+  },
+  "home": {
+    "hero": {
+      "badge": "Joyería artesanal",
+      "title": "Cada collar",
+      "titleAccent": "cuenta una historia",
+      "subtitle": "Descubre nuestra colección de collares hechos a mano con materiales seleccionados. Chapa de oro, shakiras, shakirones y mucho más.",
+      "cta": "Ver colección",
+      "ctaSecondary": "Chapa de Oro"
+    },
+    "categories": {
+      "title": "Nuestras Colecciones",
+      "subtitle": "Cada categoría es un mundo de posibilidades",
+      "explore": "Explorar"
+    },
+    "featured": {
+      "badge": "Lo más querido",
+      "title": "Piezas Destacadas",
+      "viewAll": "Ver todas"
+    }
+  },
+  "catalog": {
+    "badge": "Toda la colección",
+    "title": "Catálogo Veency",
+    "filters": "Filtros",
+    "category": "Categoría",
+    "maxPrice": "Precio máximo",
+    "sortBy": "Ordenar",
+    "clearFilters": "Limpiar filtros",
+    "noResults": "Sin resultados",
+    "noResultsSub": "Prueba con otros filtros.",
+    "products": "productos",
+    "sortOptions": {
+      "relevancia": "Relevancia",
+      "precioAsc": "Precio: menor a mayor",
+      "precioDesc": "Precio: mayor a menor",
+      "nombre": "Nombre A-Z"
+    },
+    "tabs": {
+      "all": "Todos"
+    },
+    "available": "productos disponibles"
+  },
+  "product": {
+    "addToCart": "Agregar al carrito",
+    "addedToCart": "Agregado al carrito",
+    "addToFavorites": "Agregar a favoritos",
+    "removeFromFavorites": "Quitar de favoritos",
+    "inStock": "disponibles",
+    "outOfStock": "Agotado",
+    "material": "Material",
+    "reference": "Referencia",
+    "quantity": "Cantidad",
+    "new": "Nuevo",
+    "breadcrumb": {
+      "home": "Inicio",
+      "catalog": "Catálogo"
+    }
+  },
+  "cart": {
+    "title": "Mi Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptySub": "Agrega collares de nuestra colección.",
+    "emptyCta": "Ir al catálogo",
+    "summary": "Resumen",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "shippingFree": "Gratis",
+    "total": "Total",
+    "checkout": "Proceder al pago",
+    "continueShopping": "Continuar comprando",
+    "clearCart": "Vaciar carrito",
+    "remove": "Eliminar producto",
+    "each": "c/u"
+  },
+  "favorites": {
+    "badge": "Mi lista",
+    "title": "Mis Favoritos",
+    "empty": "No tienes favoritos aún",
+    "emptySub": "Guarda los collares que más te gustan tocando el corazón.",
+    "emptyCta": "Explorar colección",
+    "addToCart": "+ Carrito",
+    "remove": "Quitar de favoritos"
+  },
+  "about": {
+    "hero": {
+      "badge": "Nuestra historia",
+      "title": "Nació de un amor",
+      "titleAccent": "sin manual de instrucciones",
+      "subtitle": "Detrás de cada collar Veency hay horas de dedicación, materiales elegidos con cariño y la convicción de que lo hecho a mano tiene un valor que ninguna máquina puede replicar."
+    },
+    "origin": {
+      "badge": "Cómo nació Veency",
+      "title": "Una mesa, hilo, cuentas",
+      "titleAccent": "y mucho sueño",
+      "p1": "Todo comenzó en 2020, cuando Valentina —diseñadora de corazón y con las manos siempre ocupadas— decidió transformar su pasión por las cuentas y los hilos en algo más que un pasatiempo. En la mesa de su cocina, rodeada de mostacillas, Shakiras y carretes de hilo de colores, nació el primer collar que alguien le pidió comprar.",
+      "p2": "Ese momento cambió todo. Lo que empezó como regalos para amigas se convirtió en pedidos, y los pedidos se convirtieron en Veency: una marca construida sobre la premisa de que cada mujer merece llevar algo único, hecho especialmente para ella.",
+      "p3": "Hoy, cada pieza sigue saliendo de las mismas manos que empezaron en esa cocina, con el mismo cuidado y la misma emoción del primer día.",
+      "quote": "Lo hecho a mano tiene alma propia",
+      "statNumber": "+500",
+      "statLabel": "piezas creadas"
+    },
+    "values": {
+      "badge": "Lo que nos mueve",
+      "title": "Nuestros valores",
+      "handmade": {
+        "title": "Hecho a Mano",
+        "desc": "Cada pieza es única, creada con dedicación y amor al detalle. No existen dos iguales: esa es la magia de lo artesanal."
+      },
+      "materials": {
+        "title": "Materiales Conscientes",
+        "desc": "Usamos materiales naturales y de calidad, con respeto al origen. Cada cuenta, hilo y elemento ha sido elegido con conciencia."
+      },
+      "design": {
+        "title": "Diseño con Alma",
+        "desc": "Cada collar cuenta una historia, refleja personalidad y elegancia. Diseñamos pensando en la mujer que lo llevará puesto."
+      }
+    },
+    "process": {
+      "badge": "Nuestro proceso",
+      "title": "Cómo hacemos",
+      "titleAccent": "cada collar",
+      "steps": [
+        {
+          "title": "Inspiración",
+          "desc": "Buscamos formas, texturas y colores en la naturaleza. Cada colección nace de una emoción, de un paisaje, de una historia que queremos contar."
+        },
+        {
+          "title": "Selección",
+          "desc": "Elegimos cada cuenta, hilo y material con cuidado. Visitamos proveedores, tocamos cada pieza y solo quedamos con lo que sentimos que tiene vida propia."
+        },
+        {
+          "title": "Creación",
+          "desc": "Manos expertas entretejen cada pieza con paciencia. No hay apuro: la artesanía se respeta y cada collar puede tomar horas de trabajo minucioso."
+        },
+        {
+          "title": "Control de calidad",
+          "desc": "Revisamos cada detalle antes de llegar a ti. Tensión del hilo, cierre del broche, uniformidad de las cuentas. Solo si nos enamora, sale de nuestras manos."
+        }
+      ]
+    },
+    "stats": {
+      "badge": "Veency en cifras",
+      "title": "Números que hablan",
+      "titleAccent": "por sí solos",
+      "pieces": "Piezas creadas",
+      "clients": "Clientas felices",
+      "collections": "Colecciones únicas"
+    },
+    "cta": {
+      "badge": "Una pieza para ti",
+      "title": "Cada collar tiene",
+      "titleAccent": "tu nombre",
+      "subtitle": "Explora nuestra colección y encuentra el collar que habla de ti. Hecho a mano, pensado con amor, diseñado para que lo uses todos los días.",
+      "button": "Ver colección",
+      "contact": "Contáctanos"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Estamos aquí para ti",
+      "title": "Hablemos",
+      "subtitle": "Cada mensaje es bienvenido. Estamos aquí para ti."
+    },
+    "channels": {
+      "badge": "Canales de contacto",
+      "title": "Encuentra la forma",
+      "titleAccent": "que prefieras"
+    },
+    "form": {
+      "title": "Envíanos un mensaje",
+      "subtitle": "Cuéntanos qué necesitas y te respondemos a la brevedad.",
+      "name": "Nombre completo",
+      "namePlaceholder": "Ej: María González",
+      "nameRequired": "El nombre es obligatorio.",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@correo.com",
+      "emailRequired": "El correo es obligatorio.",
+      "emailInvalid": "Ingresa un correo válido.",
+      "subject": "Asunto",
+      "subjectDefault": "Selecciona un asunto",
+      "subjectOptions": [
+        "Consulta sobre un producto",
+        "Pedido personalizado",
+        "Información de envío",
+        "Otro"
+      ],
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntanos en qué podemos ayudarte...",
+      "messageRequired": "El mensaje es obligatorio.",
+      "send": "Enviar mensaje",
+      "sending": "Enviando...",
+      "successTitle": "¡Mensaje enviado!",
+      "successSub": "Te contactaremos pronto."
+    },
+    "cards": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "sub": "Lunes a Sábado, 10am – 7pm",
+        "ariaLabel": "Contactar por WhatsApp"
+      },
+      "email": {
+        "title": "Correo Electrónico",
+        "sub": "Respondemos en menos de 24 horas",
+        "ariaLabel": "Contactar por correo"
+      },
+      "instagram": {
+        "title": "Instagram",
+        "sub": "Síguenos para ver nuestras novedades",
+        "ariaLabel": "Ver Instagram"
+      },
+      "location": {
+        "title": "Ubicación",
+        "sub": "Envíos a toda la República"
+      }
+    },
+    "trust": [
+      "Envíos a toda la República",
+      "Piezas únicas hechas a mano",
+      "Atención personalizada"
+    ],
+    "trustEmojis": ["Camión de envío", "Mano artesanal", "Burbuja de chat"],
+    "closing": "Cada collar empieza con una conversación.",
+    "closingSub": "Cuéntanos qué tienes en mente."
+  },
+  "footer": {
+    "tagline": "Joyería artesanal hecha con amor",
+    "rights": "Todos los derechos reservados"
+  },
+  "categories": {
+    "chapa-de-oro": "Chapa de Oro",
+    "shakiras": "Shakiras",
+    "shakirones": "Shakirones",
+    "artesanal": "Artesanal"
+  },
+  "langSelector": {
+    "label": "Idioma"
+  }
+}

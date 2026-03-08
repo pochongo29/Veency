@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "catalog": "Catalogue",
+    "about": "À propos",
+    "contact": "Contact",
+    "cart": "Panier",
+    "favorites": "Favoris",
+    "newIn": "Nouveautés",
+    "forHer": "Pour elle",
+    "forHim": "Pour lui",
+    "gifts": "Cadeaux",
+    "collections": "Collections"
+  },
+  "home": {
+    "hero": {
+      "badge": "Bijoux artisanaux",
+      "title": "Chaque collier",
+      "titleAccent": "raconte une histoire",
+      "subtitle": "Découvrez notre collection de colliers faits main avec des matériaux soigneusement sélectionnés. Plaqué or, shakiras, shakirones et bien plus encore.",
+      "cta": "Voir la collection",
+      "ctaSecondary": "Plaqué Or"
+    },
+    "categories": {
+      "title": "Nos Collections",
+      "subtitle": "Chaque catégorie est un monde de possibilités",
+      "explore": "Explorer"
+    },
+    "featured": {
+      "badge": "Les plus aimés",
+      "title": "Pièces en vedette",
+      "viewAll": "Voir tout"
+    }
+  },
+  "catalog": {
+    "badge": "Collection complète",
+    "title": "Catalogue Veency",
+    "filters": "Filtres",
+    "category": "Catégorie",
+    "maxPrice": "Prix maximum",
+    "sortBy": "Trier par",
+    "clearFilters": "Effacer les filtres",
+    "noResults": "Aucun résultat",
+    "noResultsSub": "Essayez d'autres filtres.",
+    "products": "produits",
+    "sortOptions": {
+      "relevancia": "Pertinence",
+      "precioAsc": "Prix : du moins au plus cher",
+      "precioDesc": "Prix : du plus au moins cher",
+      "nombre": "Nom A-Z"
+    },
+    "tabs": {
+      "all": "Tous"
+    },
+    "available": "produits disponibles"
+  },
+  "product": {
+    "addToCart": "Ajouter au panier",
+    "addedToCart": "Ajouté au panier",
+    "addToFavorites": "Ajouter aux favoris",
+    "removeFromFavorites": "Retirer des favoris",
+    "inStock": "disponibles",
+    "outOfStock": "Rupture de stock",
+    "material": "Matériau",
+    "reference": "Référence",
+    "quantity": "Quantité",
+    "new": "Nouveau",
+    "breadcrumb": {
+      "home": "Accueil",
+      "catalog": "Catalogue"
+    }
+  },
+  "cart": {
+    "title": "Mon Panier",
+    "empty": "Votre panier est vide",
+    "emptySub": "Ajoutez des colliers de notre collection.",
+    "emptyCta": "Aller au catalogue",
+    "summary": "Résumé",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "shippingFree": "Gratuit",
+    "total": "Total",
+    "checkout": "Procéder au paiement",
+    "continueShopping": "Continuer mes achats",
+    "clearCart": "Vider le panier",
+    "remove": "Supprimer le produit",
+    "each": "pièce"
+  },
+  "favorites": {
+    "badge": "Ma liste",
+    "title": "Mes Favoris",
+    "empty": "Vous n'avez pas encore de favoris",
+    "emptySub": "Sauvegardez les colliers que vous aimez en cliquant sur le cœur.",
+    "emptyCta": "Explorer la collection",
+    "addToCart": "+ Panier",
+    "remove": "Retirer des favoris"
+  },
+  "about": {
+    "hero": {
+      "badge": "Notre histoire",
+      "title": "Né d'un amour",
+      "titleAccent": "sans mode d'emploi",
+      "subtitle": "Derrière chaque collier Veency se cachent des heures de dévotion, des matériaux choisis avec soin et la conviction que l'artisanat a une valeur qu'aucune machine ne peut reproduire."
+    },
+    "origin": {
+      "badge": "Comment Veency est né",
+      "title": "Une table, du fil, des perles",
+      "titleAccent": "et beaucoup de rêves",
+      "p1": "Tout a commencé en 2020, quand Valentina — designer dans l'âme, les mains toujours occupées — a décidé de transformer sa passion pour les perles et les fils en quelque chose de plus qu'un passe-temps. Sur sa table de cuisine, entourée de rocailles, de Shakiras et de bobines de fil coloré, est né le premier collier qu'on lui a demandé d'acheter.",
+      "p2": "Ce moment a tout changé. Ce qui avait commencé comme des cadeaux pour des amies est devenu des commandes, et les commandes sont devenues Veency : une marque construite sur l'idée que chaque femme mérite de porter quelque chose d'unique, fait spécialement pour elle.",
+      "p3": "Aujourd'hui, chaque pièce continue à sortir des mêmes mains qui ont commencé dans cette cuisine, avec le même soin et la même émotion qu'au premier jour.",
+      "quote": "Le fait main a une âme qui lui appartient",
+      "statNumber": "+500",
+      "statLabel": "pièces créées"
+    },
+    "values": {
+      "badge": "Ce qui nous anime",
+      "title": "Nos valeurs",
+      "handmade": {
+        "title": "Fait à la Main",
+        "desc": "Chaque pièce est unique, créée avec dévouement et attention aux détails. Il n'en existe pas deux pareilles — c'est la magie de l'artisanat."
+      },
+      "materials": {
+        "title": "Matériaux Conscients",
+        "desc": "Nous utilisons des matériaux naturels et de qualité, dans le respect de leur origine. Chaque perle, fil et élément est choisi avec conscience."
+      },
+      "design": {
+        "title": "Design avec Âme",
+        "desc": "Chaque collier raconte une histoire, reflète la personnalité et l'élégance. Nous créons en pensant à la femme qui le portera."
+      }
+    },
+    "process": {
+      "badge": "Notre processus",
+      "title": "Comment nous créons",
+      "titleAccent": "chaque collier",
+      "steps": [
+        {
+          "title": "Inspiration",
+          "desc": "Nous cherchons formes, textures et couleurs dans la nature. Chaque collection naît d'une émotion, d'un paysage, d'une histoire que nous voulons raconter."
+        },
+        {
+          "title": "Sélection",
+          "desc": "Nous choisissons avec soin chaque perle, fil et matériau. Nous visitons les fournisseurs, touchons chaque pièce et ne gardons que ce qui semble avoir une vie propre."
+        },
+        {
+          "title": "Création",
+          "desc": "Des mains expertes tissent chaque pièce avec patience. Pas de précipitation : l'artisanat se respecte et chaque collier peut prendre des heures de travail minutieux."
+        },
+        {
+          "title": "Contrôle qualité",
+          "desc": "Nous vérifions chaque détail avant qu'il vous parvienne. Tension du fil, fermeture du fermoir, uniformité des perles. Seulement si nous en tombons amoureux, il quitte nos mains."
+        }
+      ]
+    },
+    "stats": {
+      "badge": "Veency en chiffres",
+      "title": "Des chiffres qui parlent",
+      "titleAccent": "d'eux-mêmes",
+      "pieces": "Pièces créées",
+      "clients": "Clientes ravies",
+      "collections": "Collections uniques"
+    },
+    "cta": {
+      "badge": "Une pièce pour vous",
+      "title": "Chaque collier porte",
+      "titleAccent": "votre prénom",
+      "subtitle": "Explorez notre collection et trouvez le collier qui vous ressemble. Fait à la main, pensé avec amour, conçu pour être porté tous les jours.",
+      "button": "Voir la collection",
+      "contact": "Nous contacter"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Nous sommes là pour vous",
+      "title": "Parlons",
+      "subtitle": "Chaque message est le bienvenu. Nous sommes là pour vous."
+    },
+    "channels": {
+      "badge": "Canaux de contact",
+      "title": "Trouvez la façon",
+      "titleAccent": "qui vous convient"
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "subtitle": "Dites-nous ce dont vous avez besoin et nous vous répondrons rapidement.",
+      "name": "Nom complet",
+      "namePlaceholder": "Ex. : María González",
+      "nameRequired": "Le nom est obligatoire.",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "vous@email.com",
+      "emailRequired": "L'e-mail est obligatoire.",
+      "emailInvalid": "Veuillez saisir un e-mail valide.",
+      "subject": "Sujet",
+      "subjectDefault": "Sélectionnez un sujet",
+      "subjectOptions": [
+        "Renseignement sur un produit",
+        "Commande personnalisée",
+        "Informations de livraison",
+        "Autre"
+      ],
+      "message": "Message",
+      "messagePlaceholder": "Dites-nous comment nous pouvons vous aider...",
+      "messageRequired": "Le message est obligatoire.",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "successTitle": "Message envoyé !",
+      "successSub": "Nous vous contacterons bientôt."
+    },
+    "cards": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "sub": "Lundi au Samedi, 10h – 19h",
+        "ariaLabel": "Contacter par WhatsApp"
+      },
+      "email": {
+        "title": "E-mail",
+        "sub": "Nous répondons en moins de 24 heures",
+        "ariaLabel": "Contacter par e-mail"
+      },
+      "instagram": {
+        "title": "Instagram",
+        "sub": "Suivez-nous pour voir nos nouveautés",
+        "ariaLabel": "Voir Instagram"
+      },
+      "location": {
+        "title": "Localisation",
+        "sub": "Livraisons dans tout le pays"
+      }
+    },
+    "trust": [
+      "Livraisons dans tout le pays",
+      "Pièces uniques faites main",
+      "Service personnalisé"
+    ],
+    "trustEmojis": ["Camion de livraison", "Main artisanale", "Bulle de discussion"],
+    "closing": "Chaque collier commence par une conversation.",
+    "closingSub": "Dites-nous ce que vous avez en tête."
+  },
+  "footer": {
+    "tagline": "Bijoux artisanaux faits avec amour",
+    "rights": "Tous droits réservés"
+  },
+  "categories": {
+    "chapa-de-oro": "Plaqué Or",
+    "shakiras": "Shakiras",
+    "shakirones": "Shakirones",
+    "artesanal": "Artisanal"
+  },
+  "langSelector": {
+    "label": "Langue"
+  }
+}

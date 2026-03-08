@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Início",
+    "catalog": "Catálogo",
+    "about": "Sobre nós",
+    "contact": "Contato",
+    "cart": "Carrinho",
+    "favorites": "Favoritos",
+    "newIn": "Novidades",
+    "forHer": "Para ela",
+    "forHim": "Para ele",
+    "gifts": "Presentes",
+    "collections": "Coleções"
+  },
+  "home": {
+    "hero": {
+      "badge": "Joias artesanais",
+      "title": "Cada colar",
+      "titleAccent": "conta uma história",
+      "subtitle": "Descubra nossa coleção de colares feitos à mão com materiais selecionados. Folha de ouro, shakiras, shakirones e muito mais.",
+      "cta": "Ver coleção",
+      "ctaSecondary": "Folha de Ouro"
+    },
+    "categories": {
+      "title": "Nossas Coleções",
+      "subtitle": "Cada categoria é um mundo de possibilidades",
+      "explore": "Explorar"
+    },
+    "featured": {
+      "badge": "Os mais amados",
+      "title": "Peças em Destaque",
+      "viewAll": "Ver tudo"
+    }
+  },
+  "catalog": {
+    "badge": "Coleção completa",
+    "title": "Catálogo Veency",
+    "filters": "Filtros",
+    "category": "Categoria",
+    "maxPrice": "Preço máximo",
+    "sortBy": "Ordenar por",
+    "clearFilters": "Limpar filtros",
+    "noResults": "Nenhum resultado",
+    "noResultsSub": "Tente outros filtros.",
+    "products": "produtos",
+    "sortOptions": {
+      "relevancia": "Relevância",
+      "precioAsc": "Preço: menor para maior",
+      "precioDesc": "Preço: maior para menor",
+      "nombre": "Nome A-Z"
+    },
+    "tabs": {
+      "all": "Todos"
+    },
+    "available": "produtos disponíveis"
+  },
+  "product": {
+    "addToCart": "Adicionar ao carrinho",
+    "addedToCart": "Adicionado ao carrinho",
+    "addToFavorites": "Adicionar aos favoritos",
+    "removeFromFavorites": "Remover dos favoritos",
+    "inStock": "disponíveis",
+    "outOfStock": "Esgotado",
+    "material": "Material",
+    "reference": "Referência",
+    "quantity": "Quantidade",
+    "new": "Novo",
+    "breadcrumb": {
+      "home": "Início",
+      "catalog": "Catálogo"
+    }
+  },
+  "cart": {
+    "title": "Meu Carrinho",
+    "empty": "Seu carrinho está vazio",
+    "emptySub": "Adicione colares da nossa coleção.",
+    "emptyCta": "Ir ao catálogo",
+    "summary": "Resumo",
+    "subtotal": "Subtotal",
+    "shipping": "Frete",
+    "shippingFree": "Grátis",
+    "total": "Total",
+    "checkout": "Finalizar compra",
+    "continueShopping": "Continuar comprando",
+    "clearCart": "Esvaziar carrinho",
+    "remove": "Remover produto",
+    "each": "un."
+  },
+  "favorites": {
+    "badge": "Minha lista",
+    "title": "Meus Favoritos",
+    "empty": "Você ainda não tem favoritos",
+    "emptySub": "Salve os colares que você ama clicando no coração.",
+    "emptyCta": "Explorar coleção",
+    "addToCart": "+ Carrinho",
+    "remove": "Remover dos favoritos"
+  },
+  "about": {
+    "hero": {
+      "badge": "Nossa história",
+      "title": "Nasceu de um amor",
+      "titleAccent": "sem manual de instruções",
+      "subtitle": "Por trás de cada colar Veency há horas de dedicação, materiais escolhidos com carinho e a convicção de que o feito à mão tem um valor que nenhuma máquina consegue replicar."
+    },
+    "origin": {
+      "badge": "Como a Veency nasceu",
+      "title": "Uma mesa, fio, contas",
+      "titleAccent": "e muito sonho",
+      "p1": "Tudo começou em 2020, quando Valentina — designer de coração e com as mãos sempre ocupadas — decidiu transformar sua paixão por contas e fios em algo mais do que um hobby. Na mesa de sua cozinha, rodeada de miçangas, Shakiras e rolos de fio colorido, nasceu o primeiro colar que alguém lhe pediu para comprar.",
+      "p2": "Esse momento mudou tudo. O que começou como presentes para amigas virou pedidos, e os pedidos viraram a Veency: uma marca construída sobre a premissa de que cada mulher merece usar algo único, feito especialmente para ela.",
+      "p3": "Hoje, cada peça ainda sai das mesmas mãos que começaram naquela cozinha, com o mesmo cuidado e a mesma emoção do primeiro dia.",
+      "quote": "O feito à mão tem alma própria",
+      "statNumber": "+500",
+      "statLabel": "peças criadas"
+    },
+    "values": {
+      "badge": "O que nos move",
+      "title": "Nossos valores",
+      "handmade": {
+        "title": "Feito à Mão",
+        "desc": "Cada peça é única, criada com dedicação e amor ao detalhe. Não existem duas iguais — essa é a magia do artesanal."
+      },
+      "materials": {
+        "title": "Materiais Conscientes",
+        "desc": "Usamos materiais naturais e de qualidade, com respeito à origem. Cada conta, fio e elemento é escolhido com consciência."
+      },
+      "design": {
+        "title": "Design com Alma",
+        "desc": "Cada colar conta uma história, reflete personalidade e elegância. Projetamos pensando na mulher que vai usá-lo."
+      }
+    },
+    "process": {
+      "badge": "Nosso processo",
+      "title": "Como fazemos",
+      "titleAccent": "cada colar",
+      "steps": [
+        {
+          "title": "Inspiração",
+          "desc": "Buscamos formas, texturas e cores na natureza. Cada coleção nasce de uma emoção, de uma paisagem, de uma história que queremos contar."
+        },
+        {
+          "title": "Seleção",
+          "desc": "Escolhemos cada conta, fio e material com cuidado. Visitamos fornecedores, tocamos cada peça e ficamos apenas com o que sentimos que tem vida própria."
+        },
+        {
+          "title": "Criação",
+          "desc": "Mãos expertas entretecem cada peça com paciência. Sem pressa: o artesanato se respeita e cada colar pode levar horas de trabalho minucioso."
+        },
+        {
+          "title": "Controle de qualidade",
+          "desc": "Revisamos cada detalhe antes de chegar até você. Tensão do fio, fecho do colar, uniformidade das contas. Só se nos encanta, sai das nossas mãos."
+        }
+      ]
+    },
+    "stats": {
+      "badge": "Veency em números",
+      "title": "Números que falam",
+      "titleAccent": "por si mesmos",
+      "pieces": "Peças criadas",
+      "clients": "Clientes felizes",
+      "collections": "Coleções únicas"
+    },
+    "cta": {
+      "badge": "Uma peça para você",
+      "title": "Cada colar tem",
+      "titleAccent": "o seu nome",
+      "subtitle": "Explore nossa coleção e encontre o colar que fala de você. Feito à mão, pensado com amor, criado para usar todos os dias.",
+      "button": "Ver coleção",
+      "contact": "Fale conosco"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Estamos aqui para você",
+      "title": "Vamos conversar",
+      "subtitle": "Cada mensagem é bem-vinda. Estamos aqui para você."
+    },
+    "channels": {
+      "badge": "Canais de contato",
+      "title": "Encontre a forma",
+      "titleAccent": "que preferir"
+    },
+    "form": {
+      "title": "Nos envie uma mensagem",
+      "subtitle": "Conte o que você precisa e responderemos o mais rápido possível.",
+      "name": "Nome completo",
+      "namePlaceholder": "Ex: María González",
+      "nameRequired": "O nome é obrigatório.",
+      "email": "Endereço de e-mail",
+      "emailPlaceholder": "voce@email.com",
+      "emailRequired": "O e-mail é obrigatório.",
+      "emailInvalid": "Digite um e-mail válido.",
+      "subject": "Assunto",
+      "subjectDefault": "Selecione um assunto",
+      "subjectOptions": [
+        "Dúvida sobre um produto",
+        "Pedido personalizado",
+        "Informações de envio",
+        "Outro"
+      ],
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte-nos como podemos te ajudar...",
+      "messageRequired": "A mensagem é obrigatória.",
+      "send": "Enviar mensagem",
+      "sending": "Enviando...",
+      "successTitle": "Mensagem enviada!",
+      "successSub": "Entraremos em contato em breve."
+    },
+    "cards": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "sub": "Segunda a Sábado, 10h – 19h",
+        "ariaLabel": "Contatar pelo WhatsApp"
+      },
+      "email": {
+        "title": "E-mail",
+        "sub": "Respondemos em menos de 24 horas",
+        "ariaLabel": "Contatar por e-mail"
+      },
+      "instagram": {
+        "title": "Instagram",
+        "sub": "Siga-nos para ver nossas novidades",
+        "ariaLabel": "Ver Instagram"
+      },
+      "location": {
+        "title": "Localização",
+        "sub": "Envios para todo o país"
+      }
+    },
+    "trust": [
+      "Envios para todo o país",
+      "Peças únicas feitas à mão",
+      "Atendimento personalizado"
+    ],
+    "trustEmojis": ["Caminhão de entrega", "Mão artesanal", "Balão de conversa"],
+    "closing": "Cada colar começa com uma conversa.",
+    "closingSub": "Conte-nos o que você tem em mente."
+  },
+  "footer": {
+    "tagline": "Joias artesanais feitas com amor",
+    "rights": "Todos os direitos reservados"
+  },
+  "categories": {
+    "chapa-de-oro": "Folha de Ouro",
+    "shakiras": "Shakiras",
+    "shakirones": "Shakirones",
+    "artesanal": "Artesanal"
+  },
+  "langSelector": {
+    "label": "Idioma"
+  }
+}

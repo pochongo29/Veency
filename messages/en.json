@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "favorites": "Favorites",
+    "newIn": "New in",
+    "forHer": "For her",
+    "forHim": "For him",
+    "gifts": "Gifts",
+    "collections": "Collections"
+  },
+  "home": {
+    "hero": {
+      "badge": "Handcrafted jewelry",
+      "title": "Every necklace",
+      "titleAccent": "tells a story",
+      "subtitle": "Discover our collection of handmade necklaces crafted with selected materials. Gold plated, shakiras, shakirones and much more.",
+      "cta": "View collection",
+      "ctaSecondary": "Gold Plated"
+    },
+    "categories": {
+      "title": "Our Collections",
+      "subtitle": "Each category is a world of possibilities",
+      "explore": "Explore"
+    },
+    "featured": {
+      "badge": "Most loved",
+      "title": "Featured Pieces",
+      "viewAll": "View all"
+    }
+  },
+  "catalog": {
+    "badge": "Full collection",
+    "title": "Veency Catalog",
+    "filters": "Filters",
+    "category": "Category",
+    "maxPrice": "Max price",
+    "sortBy": "Sort by",
+    "clearFilters": "Clear filters",
+    "noResults": "No results found",
+    "noResultsSub": "Try different filters.",
+    "products": "products",
+    "sortOptions": {
+      "relevancia": "Relevance",
+      "precioAsc": "Price: low to high",
+      "precioDesc": "Price: high to low",
+      "nombre": "Name A-Z"
+    },
+    "tabs": {
+      "all": "All"
+    },
+    "available": "products available"
+  },
+  "product": {
+    "addToCart": "Add to cart",
+    "addedToCart": "Added to cart",
+    "addToFavorites": "Add to favorites",
+    "removeFromFavorites": "Remove from favorites",
+    "inStock": "available",
+    "outOfStock": "Out of stock",
+    "material": "Material",
+    "reference": "Reference",
+    "quantity": "Quantity",
+    "new": "New",
+    "breadcrumb": {
+      "home": "Home",
+      "catalog": "Catalog"
+    }
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty",
+    "emptySub": "Add necklaces from our collection.",
+    "emptyCta": "Go to catalog",
+    "summary": "Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingFree": "Free",
+    "total": "Total",
+    "checkout": "Proceed to checkout",
+    "continueShopping": "Continue shopping",
+    "clearCart": "Clear cart",
+    "remove": "Remove product",
+    "each": "each"
+  },
+  "favorites": {
+    "badge": "My list",
+    "title": "My Favorites",
+    "empty": "You have no favorites yet",
+    "emptySub": "Save the necklaces you love by tapping the heart.",
+    "emptyCta": "Explore collection",
+    "addToCart": "+ Cart",
+    "remove": "Remove from favorites"
+  },
+  "about": {
+    "hero": {
+      "badge": "Our story",
+      "title": "Born from a love",
+      "titleAccent": "with no instruction manual",
+      "subtitle": "Behind every Veency necklace are hours of dedication, carefully chosen materials, and the conviction that handmade craftsmanship holds a value no machine can replicate."
+    },
+    "origin": {
+      "badge": "How Veency was born",
+      "title": "A table, thread, beads",
+      "titleAccent": "and a big dream",
+      "p1": "It all began in 2020, when Valentina — a designer at heart with hands always busy — decided to turn her passion for beads and threads into something more than a hobby. At her kitchen table, surrounded by seed beads, Shakiras, and colorful thread spools, the first necklace someone asked to buy was born.",
+      "p2": "That moment changed everything. What started as gifts for friends became orders, and orders became Veency: a brand built on the premise that every woman deserves to wear something unique, made especially for her.",
+      "p3": "Today, every piece still comes from the same hands that started in that kitchen, with the same care and the same excitement as day one.",
+      "quote": "Handmade things have a soul of their own",
+      "statNumber": "+500",
+      "statLabel": "pieces created"
+    },
+    "values": {
+      "badge": "What drives us",
+      "title": "Our values",
+      "handmade": {
+        "title": "Handmade",
+        "desc": "Every piece is unique, created with dedication and attention to detail. No two are alike — that is the magic of craftsmanship."
+      },
+      "materials": {
+        "title": "Conscious Materials",
+        "desc": "We use natural, high-quality materials, with respect for their origin. Every bead, thread, and element is chosen mindfully."
+      },
+      "design": {
+        "title": "Design with Soul",
+        "desc": "Every necklace tells a story, reflecting personality and elegance. We design with the woman who will wear it in mind."
+      }
+    },
+    "process": {
+      "badge": "Our process",
+      "title": "How we make",
+      "titleAccent": "each necklace",
+      "steps": [
+        {
+          "title": "Inspiration",
+          "desc": "We seek shapes, textures, and colors in nature. Each collection is born from an emotion, a landscape, a story we want to tell."
+        },
+        {
+          "title": "Selection",
+          "desc": "We carefully choose every bead, thread, and material. We visit suppliers, touch each piece, and only keep what feels alive."
+        },
+        {
+          "title": "Creation",
+          "desc": "Expert hands weave each piece with patience. There is no rush: craftsmanship deserves respect, and each necklace can take hours of meticulous work."
+        },
+        {
+          "title": "Quality control",
+          "desc": "We review every detail before it reaches you. Thread tension, clasp closure, bead uniformity. Only if it moves us does it leave our hands."
+        }
+      ]
+    },
+    "stats": {
+      "badge": "Veency in numbers",
+      "title": "Numbers that speak",
+      "titleAccent": "for themselves",
+      "pieces": "Pieces created",
+      "clients": "Happy customers",
+      "collections": "Unique collections"
+    },
+    "cta": {
+      "badge": "A piece for you",
+      "title": "Every necklace has",
+      "titleAccent": "your name on it",
+      "subtitle": "Explore our collection and find the necklace that speaks to you. Handmade, crafted with love, designed to wear every day.",
+      "button": "View collection",
+      "contact": "Contact us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "We are here for you",
+      "title": "Let's talk",
+      "subtitle": "Every message is welcome. We are here for you."
+    },
+    "channels": {
+      "badge": "Contact channels",
+      "title": "Find the way",
+      "titleAccent": "that works for you"
+    },
+    "form": {
+      "title": "Send us a message",
+      "subtitle": "Tell us what you need and we will get back to you shortly.",
+      "name": "Full name",
+      "namePlaceholder": "E.g.: María González",
+      "nameRequired": "Name is required.",
+      "email": "Email address",
+      "emailPlaceholder": "you@email.com",
+      "emailRequired": "Email is required.",
+      "emailInvalid": "Please enter a valid email.",
+      "subject": "Subject",
+      "subjectDefault": "Select a subject",
+      "subjectOptions": [
+        "Product inquiry",
+        "Custom order",
+        "Shipping information",
+        "Other"
+      ],
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "messageRequired": "Message is required.",
+      "send": "Send message",
+      "sending": "Sending...",
+      "successTitle": "Message sent!",
+      "successSub": "We will contact you soon."
+    },
+    "cards": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "sub": "Monday to Saturday, 10am – 7pm",
+        "ariaLabel": "Contact via WhatsApp"
+      },
+      "email": {
+        "title": "Email",
+        "sub": "We respond within 24 hours",
+        "ariaLabel": "Contact via email"
+      },
+      "instagram": {
+        "title": "Instagram",
+        "sub": "Follow us for our latest pieces",
+        "ariaLabel": "View Instagram"
+      },
+      "location": {
+        "title": "Location",
+        "sub": "Shipping nationwide"
+      }
+    },
+    "trust": [
+      "Nationwide shipping",
+      "Unique handmade pieces",
+      "Personalized service"
+    ],
+    "trustEmojis": ["Shipping truck", "Artisan hand", "Chat bubble"],
+    "closing": "Every necklace starts with a conversation.",
+    "closingSub": "Tell us what you have in mind."
+  },
+  "footer": {
+    "tagline": "Handcrafted jewelry made with love",
+    "rights": "All rights reserved"
+  },
+  "categories": {
+    "chapa-de-oro": "Gold Plated",
+    "shakiras": "Shakiras",
+    "shakirones": "Shakirones",
+    "artesanal": "Artisan"
+  },
+  "langSelector": {
+    "label": "Language"
+  }
+}

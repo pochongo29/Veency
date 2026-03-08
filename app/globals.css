@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+html {
+  scroll-snap-type: y proximity;
+  scroll-behavior: smooth;
+}
+
+@theme inline {
+  /* Paleta oficial Veency — Premium Artisanal */
+  --color-primary: #B9965B;
+  --color-primary-dark: #A07C42;
+  --color-primary-light: #D4B483;
+  --color-accent: #B98C73;
+  --color-accent-dark: #9A6E55;
+  --color-background: #F5EDE3;
+  --color-bg-secondary: #FBF7F3;
+  --color-bg-dark: #1A1210;
+  --color-text: #2B1F1A;
+  --color-muted: #8A7060;
+  --color-text-light: #CEAD99;
+  --color-surface: #ffffff;
+  --color-warm: #EDE6D9;
+  --color-espresso: #2B1F1A;
+  --color-espresso-soft: #3D2B23;
+  --shadow-card: 0 4px 24px rgba(185, 150, 91, 0.10);
+  --shadow-hover: 0 8px 40px rgba(185, 150, 91, 0.16);
+
+  --font-heading: var(--font-playfair), Georgia, serif;
+  --font-body: var(--font-source-sans), system-ui, sans-serif;
+}
+
+:root {
+  --background: #F5EDE3;
+  --foreground: #2B1F1A;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar personalizado */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F5EDE3;
+}
+::-webkit-scrollbar-thumb {
+  background: #B9965B;
+  border-radius: 3px;
+}
+
+/* Seleccion de texto */
+::selection {
+  background: #B9965B;
+  color: #ffffff;
+}
+
+/* Ocultar scrollbar horizontal en carruseles */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
